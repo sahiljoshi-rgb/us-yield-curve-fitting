@@ -58,10 +58,6 @@ This repository contains a research-style Jupyter notebook analyzing the **US Tr
 
 ## How to Run
 
-```bash
-pip install -r requirements.txt
-```
-
 ### 1. Install Dependencies
 ``` pip install -r requirements.txt ```
 
