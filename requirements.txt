@@ -1,0 +1,6 @@
+pandas
+numpy
+matplotlib
+seaborn
+fredapi
+nelson-siegel-svensson
