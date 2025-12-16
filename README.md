@@ -56,15 +56,10 @@ This repository contains a research-style Jupyter notebook analyzing the **US Tr
 
 ---
 
-## How to Run
-
-### 1. Install Dependencies
+### Install Dependencies
 ``` pip install -r requirements.txt ```
 
-### 2. Launch Jupyter Notebook
-``` jupyter notebook notebooks/us-yield-curve-fitting.ipynb ```
-
-### 3. Requirements
+### Requirements
 ```
 - pandas
 - numpy
@@ -74,20 +69,20 @@ This repository contains a research-style Jupyter notebook analyzing the **US Tr
 - nelson-siegel-svensson
 ```
 
-### 4. You will need a free FRED API key:
+### You will need a free FRED API key:
 ``` https://fred.stlouisfed.org/docs/api/api_key.html ```
 
-### 5. Data Source Attribution
+### Data Source Attribution
 ``` All data is sourced from: FRED (Federal Reserve Economic Data) ```
 
-### 6. Yield series used: 
+### Yield series used: 
 ``` DGS1MO, DGS3MO, DGS6MO, DGS1, DGS2, DGS3, DGS5, DGS7, DGS10, DGS20, DGS30 ```
 
-### 7. License
+### License
 ``` This project is licensed under the MIT License. ```
 
-### 8. Author
+### Author
 Sahil Joshi (LinkedIn: https://www.linkedin.com/in/sahil-joshi-90338a212/)
 
-### 11. References
+### References
 - This project was developed with guidance from the yield-curve and term-structure coursework in the **WorldQuant University MSc in Financial Engineering** program.
